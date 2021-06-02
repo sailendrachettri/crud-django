@@ -1,3 +1,3 @@
 # crud-django
-Crud django application
+This django application is able to perform crud operation
 
